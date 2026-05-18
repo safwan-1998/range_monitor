@@ -1,0 +1,51 @@
+product_id,product_name,product_category,product_brand,product_season,range_tag,price
+SKU-1001,Hush Puppies Bags Style 001,Bags,Hush Puppies,AW,seasonal,27.49
+SKU-1002,Skechers Accessories Style 002,Accessories,Skechers,SS,seasonal,34.99
+SKU-1003,Clarks Apparel Style 003,Apparel,Clarks,AW,seasonal,42.49
+SKU-1004,Rieker Footwear Style 004,Footwear,Rieker,SS,seasonal,49.99
+SKU-1005,Generic Bags Style 005,Bags,Generic,AW,seasonal,57.49
+SKU-1006,Pavers Accessories Style 006,Accessories,Pavers,SS,seasonal,64.99
+SKU-1007,Hush Puppies Apparel Style 007,Apparel,Hush Puppies,,continuity,72.49
+SKU-1008,Skechers Footwear Style 008,Footwear,Skechers,SS,seasonal,79.99
+SKU-1009,Clarks Bags Style 009,Bags,Clarks,AW,seasonal,19.99
+SKU-1010,Rieker Accessories Style 010,Accessories,Rieker,SS,seasonal,27.49
+SKU-1011,Generic Apparel Style 011,Apparel,Generic,AW,seasonal,34.99
+SKU-1012,Pavers Footwear Style 012,Footwear,Pavers,SS,seasonal,42.49
+SKU-1013,Hush Puppies Bags Style 013,Bags,Hush Puppies,AW,seasonal,49.99
+SKU-1014,Skechers Accessories Style 014,Accessories,Skechers,,continuity,57.49
+SKU-1015,Clarks Apparel Style 015,Apparel,Clarks,AW,seasonal,64.99
+SKU-1016,Rieker Footwear Style 016,Footwear,Rieker,SS,seasonal,72.49
+SKU-1017,Generic Bags Style 017,Bags,Generic,AW,seasonal,79.99
+SKU-1018,Pavers Accessories Style 018,Accessories,Pavers,SS,seasonal,19.99
+SKU-1019,Hush Puppies Apparel Style 019,Apparel,Hush Puppies,AW,seasonal,27.49
+SKU-1020,Skechers Footwear Style 020,Footwear,Skechers,SS,seasonal,34.99
+SKU-1021,Clarks Bags Style 021,Bags,Clarks,,continuity,42.49
+SKU-1022,Rieker Accessories Style 022,Accessories,Rieker,SS,seasonal,49.99
+SKU-1023,Generic Apparel Style 023,Apparel,Generic,AW,seasonal,57.49
+SKU-1024,Pavers Footwear Style 024,Footwear,Pavers,SS,seasonal,64.99
+SKU-1025,Hush Puppies Bags Style 025,Bags,Hush Puppies,AW,seasonal,72.49
+SKU-1026,Skechers Accessories Style 026,Accessories,Skechers,SS,seasonal,79.99
+SKU-1027,Clarks Apparel Style 027,Apparel,Clarks,AW,seasonal,19.99
+SKU-1028,Rieker Footwear Style 028,Footwear,Rieker,,continuity,27.49
+SKU-1029,Generic Bags Style 029,Bags,Generic,AW,seasonal,34.99
+SKU-1030,Pavers Accessories Style 030,Accessories,Pavers,SS,seasonal,42.49
+SKU-1031,Hush Puppies Apparel Style 031,Apparel,Hush Puppies,AW,seasonal,49.99
+SKU-1032,Skechers Footwear Style 032,Footwear,Skechers,SS,seasonal,57.49
+SKU-1033,Clarks Bags Style 033,Bags,Clarks,AW,seasonal,64.99
+SKU-1034,Rieker Accessories Style 034,Accessories,Rieker,SS,seasonal,72.49
+SKU-1035,Generic Apparel Style 035,Apparel,Generic,,continuity,79.99
+SKU-1036,Pavers Footwear Style 036,Footwear,Pavers,SS,seasonal,19.99
+SKU-1037,Hush Puppies Bags Style 037,Bags,Hush Puppies,AW,seasonal,27.49
+SKU-1038,Skechers Accessories Style 038,Accessories,Skechers,SS,seasonal,34.99
+SKU-1039,Clarks Apparel Style 039,Apparel,Clarks,AW,seasonal,42.49
+SKU-1040,Rieker Footwear Style 040,Footwear,Rieker,SS,seasonal,49.99
+SKU-1041,Generic Bags Style 041,Bags,Generic,AW,seasonal,57.49
+SKU-1042,Pavers Accessories Style 042,Accessories,Pavers,,continuity,64.99
+SKU-1043,Hush Puppies Apparel Style 043,Apparel,Hush Puppies,AW,seasonal,72.49
+SKU-1044,Skechers Footwear Style 044,Footwear,Skechers,SS,seasonal,79.99
+SKU-1045,Clarks Bags Style 045,Bags,Clarks,AW,seasonal,19.99
+SKU-1046,Rieker Accessories Style 046,Accessories,Rieker,SS,seasonal,27.49
+SKU-1047,Generic Apparel Style 047,Apparel,Generic,AW,seasonal,34.99
+SKU-1048,Pavers Footwear Style 048,Footwear,Pavers,SS,seasonal,42.49
+SKU-1049,Hush Puppies Bags Style 049,Bags,Hush Puppies,,continuity,49.99
+SKU-1050,Skechers Accessories Style 050,Accessories,Skechers,SS,seasonal,57.49

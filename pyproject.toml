@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "range-monitor-v2"
+version = "0.1.0"
+description = "Range Monitor V2 — Apollo/UiPath design, Streamlit dashboard"
+authors = ["Range Monitor <range-monitor@peak.ai>"]
+readme = "README.md"
+packages = [
+    { include = "engine" },
+    { include = "ui" },
+]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+streamlit = ">=1.35.0"
+duckdb = ">=1.0.0"
+plotly = ">=5.20.0"
+pandas = ">=2.0.0"
+openpyxl = ">=3.1.0"
+anthropic = ">=0.25.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

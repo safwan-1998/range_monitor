@@ -1,0 +1,9 @@
+location_id,location_name,branch_area,store_type,is_store,is_dc
+47,Online DC,Online,Online,false,true
+23,Central Warehouse,Logistics,Warehouse,false,true
+101,Manchester Arndale,North West,Pavers,true,false
+102,Liverpool One,North West,Pavers,true,false
+103,Birmingham Bullring,Midlands,Pavers,true,false
+104,Leeds Trinity,Yorkshire,Pavers,true,false
+105,Glasgow Buchanan,Scotland,Pavers,true,false
+106,Bristol Cabot,South West,Pavers,true,false
